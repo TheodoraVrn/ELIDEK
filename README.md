@@ -1,5 +1,5 @@
 # ELIDEK
-Project for Database class in NTYA (2022)
+Project for Database class in NTUA (2022)
 ## Contributors
 1. Zachou Aliki
 2. Vernardaki Theodora
