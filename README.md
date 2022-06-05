@@ -5,4 +5,4 @@ Project for the Database class in NTUA (2022)
 1. Ζάχου Αλίκη
 2. Βερναρδάκη Θεοδώρα
 ## Tools Used
-![mysql](https://img.shields.io/badge/mysql-v8.0-red.svg)
+![mysql](https://img.shields.io/badge/mysql-v10.4-red.svg)
